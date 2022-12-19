@@ -3,8 +3,16 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-# 💫 About Me:
-I'm a self-taught full-stack web developer<br>I'm currently working on a MERN stack e-commerce project<br>I'm presently learning react-redux and web sockets<br> Ask me about anything related to the MERN stack and associated technologies<br>
+### <div align="center">I'm Niyas, a self-taught full-stack web developer</div> 
+ <br>
+
+
+* 🔭 I'm currently working on a MERN stack e-commerce project<br>
+
+
+* 🌱 I'm presently learning react-redux and web sockets<br>
+
+* ❓Ask me about anything related to the MERN stack and associated technologies<br>
 
 
 ## 🌐 Socials:
