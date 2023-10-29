@@ -7,10 +7,9 @@
  <br>
 
 
-* 🔭 I'm currently working on a MERN stack e-commerce project<br>
+* 🔭 I am currently figuring out how to contribute to open-source projects and become a better developer.<br>
 
 
-* 🌱 I'm presently learning react-redux and web sockets<br>
 
 * ❓Ask me about anything related to the MERN stack and associated technologies<br>
 
